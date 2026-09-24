@@ -62,7 +62,7 @@ Below is a curated table of leading commercial SaaS products offering managed AI
 
 ## 🔓 Open-Source GitHub Repositories
 
-Open-source frameworks provide transparent, highly customizable guardrails for self-hosted or cloud model deployments. *Sorted by GitHub Star Count (Descending).*
+Open-source frameworks provide transparent, highly customizable guardrails for self-hosted or cloud model deployments. *Sorted by GitHub Stars_Count (Descending).*
 
 1. 🌟 **[microsoft/guidance](https://github.com/microsoft/guidance)** <a href="https://github.com/microsoft/guidance/stargazers"><img src="https://img.shields.io/github/stars/microsoft/guidance?style=social&color=white" alt="Guidance Stars"/></a>  
    A domain-specific language for controlling modern LLMs—interleave generation, prompt structure, and token-level logical constraints seamlessly.
